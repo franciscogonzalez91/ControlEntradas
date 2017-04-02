@@ -1,1 +1,2 @@
 C:\Users\Francisco\Documents\CursoCSharp\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.exe.config
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.exe.config
